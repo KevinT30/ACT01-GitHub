@@ -1,0 +1,12 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpetas de dependencias
+node_modules/
+bin/
+obj/
